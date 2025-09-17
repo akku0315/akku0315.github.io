@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Akash Kumar Singh | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <h1>Akash Kumar Singh</h1>
+      <p>BSc Physical Science (CS) | Aspiring Cybersecurity & Data Science Enthusiast</p>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        Hi, I’m Akash 👋. I’m a Computer Science student at Delhi University passionate about
+        <b>software development, data analysis, and cybersecurity</b>. I enjoy building projects,
+        exploring new tech, and sharing knowledge. 
+      </p>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <div class="container">
+      <h2>Skills</h2>
+      <ul>
+        <li>Python, C, SQL</li>
+        <li>Data Analysis (Pandas, NumPy, Matplotlib)</li>
+        <li>Cybersecurity Basics (Linux, Networking, Kali)</li>
+        <li>Web Development (HTML, CSS, JavaScript)</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>🔒 Password Manager</h3>
+        <p>A local password manager built using Python & SQLite with encryption support.</p>
+        <a href="https://github.com/yourusername/password-manager" target="_blank">View on GitHub</a>
+      </div>
+      <div class="project">
+        <h3>📊 Stock Price Prediction</h3>
+        <p>Analyzed and predicted stock trends using Python, Pandas, and Scikit-learn.</p>
+        <a href="https://github.com/yourusername/stock-prediction" target="_blank">View on GitHub</a>
+      </div>
+      <div class="project">
+        <h3>🌐 Port Scanner Tool</h3>
+        <p>A simple cybersecurity tool to scan open ports using Python sockets.</p>
+        <a href="https://github.com/yourusername/port-scanner" target="_blank">View on GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:yourname@gmail.com">yourname@gmail.com</a></p>
+      <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/yourusername" target="_blank">linkedin.com/in/yourusername</a></p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Akash Kumar Singh | Built with ❤️ using HTML & CSS</p>
+  </footer>
+</body>
+</html>
